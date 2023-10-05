@@ -1,0 +1,1 @@
+Both parts are done in the one unity project. Just enable/disable the "Part 1" and "Part 2" gameobjects in the scene to view each one separately - I don't have enough space on my hard drive to keep making copies of the same unity project.
